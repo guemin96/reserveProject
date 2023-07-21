@@ -1,12 +1,13 @@
 # reserveProject
 
 사용기술
-* 스프링 2.7
+* 스프링 2.7 (인텔리제이)
 * 리액트 mui 템플릿
 * 시큐리티
 * Mybatis
 * Figma
 * Source Tree
+* Jenkins
 
 1일차
 * erd 작성        
