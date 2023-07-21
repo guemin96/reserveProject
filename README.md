@@ -8,6 +8,7 @@
 * Figma
 * Source Tree
 * Jenkins
+* JWT
 
 1일차
 * erd 작성        
