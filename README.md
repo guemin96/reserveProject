@@ -1,5 +1,13 @@
 # reserveProject
 
+사용기술
+* 스프링 2.7
+* 리액트 mui 템플릿
+* 시큐리티
+* Mybatis
+* Figma
+* Source Tree
+
 1일차
 * erd 작성        
 * 페이지 구성
