@@ -18,3 +18,9 @@
 2일차
 * MUI 템플릿 찾기
 * erd 테이블 내용 보충
+
+3일차
+* mui 템플릿 2개 선정
+* 스프링시큐리티 테스트버전(https://www.youtube.com/watch?v=ewslpCROKXY)
+* DB 테이블 생성
+* API 명세서 리뷰부분 추가(부족한 부분 발견시 더 추가하기)
